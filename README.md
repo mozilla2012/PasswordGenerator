@@ -5,3 +5,20 @@ Symbols and letters should be added between words for extra security.
 See: https://xkcd.com/936/
 
 Word list: https://github.com/dwyl/english-words
+
+### Example password output:
+* prich furl rialto
+* kale yens prudish
+* gurl dich coaid 
+* cogit haoris mand
+* malam epeiric protutory
+* thens kenema
+* thaught pantofle
+* butoxy fivish
+* anguria hangman
+* tibiale handmaid
+* antisudorific
+* proamendment
+* autotoxicosis
+* autotoxicity
+* leucocytotic
